@@ -1,18 +1,10 @@
-[![](https://assets.zeit.co/image/upload/v1556749417/front/blog/serverless-ecommerce/serverless-vrs.now.sh.png)](https://serverless-vrs.now.sh)
+<img width="1440" alt="Screenshot 2022-02-17 at 10 45 13 AM" src="https://user-images.githubusercontent.com/97986424/155592254-e1218290-0fea-4ea2-ace4-a53fa4b5dbd8.png">
 
 ---
 
-VRS is a fully-functional e-commerce store, built on the [serverless paradigm](https://vercel.com).
+Metaegg NFT Market Place is a fully-functional NFT store, built on blockchain.
 
-With a single command `vercel`, the store deploys instantly, scales automatically, and requires zero supervision. The underlying infrastructure can handle peak time traffic with consistent, blazing-fast performance.
 
-## Deploy
 
-You can deploy VRS to our scalable serverless infrastructure free of cost.  
-Thanks to the on-demand pricing model, you don’t pay a cent for infrastructure during idle time.
 
-## About
-
-Our mission at Vercel is to make the cloud accessible to everyone. We do that by creating products that improve developer experience, provisioning infrastructure that is globally available, and by teaching the developer community about serverless-related technology. We made VRS to showcase that it’s possible to create a fully functional, high-performance e-commerce store without requiring infrastructure know-how. 
-
-Follow us on [Twitter](https://twitter.com/vercel).
+Follow us on [Twitter](https://twitter.com/metaegg_io).
