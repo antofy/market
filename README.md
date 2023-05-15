@@ -2,7 +2,7 @@
 
 ---
 
-Metaegg NFT Market Place is a fully-functional NFT store, built on blockchain.
+Antofy NFT Market Place is a fully-functional NFT store, built on blockchain.
 
 
 
